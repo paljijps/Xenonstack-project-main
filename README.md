@@ -47,8 +47,4 @@ charge only small amount of money in exchnge of our services .
 ![App Screenshot](Main1Mob.png)
 ![App Screenshot](Main2Mob.png)
 
-. Contact Page
-
-![App Screenshot](contactMob.png)
-
 
